@@ -8,12 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
-    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/GestureExamples.unity
-    guid: 4ee2a082a0e621b49ab01667c66f1599
-  - enabled: 0
-    path: Assets/Oculus/SampleFramework/Usage/StartScene.unity
-    guid: 071fba5195bd4b04eab8668985aa1683
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3656ee3261b74db4bba32390c0e8f8ef, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c09514c020485444097fa37bc2552c3f, type: 2}
